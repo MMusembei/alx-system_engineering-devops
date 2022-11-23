@@ -1,5 +1,5 @@
 0x07. Networking basics #0
-Repo: holberton-system_engineering-devops Directory: 0x07-networking_basics
+Repo: Alx-system_engineering-devops Directory: 0x07-networking_basics
 
 Resources
 OSI model
